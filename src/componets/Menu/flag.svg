@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="48px" viewBox="0 0 72 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>571630</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0289118136 72 0.0289118136 72 47.9490449 0 47.9490449"></polygon>
+    </defs>
+    <g id="icons-etc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-116.000000, -117.000000)">
+            <g id="571630" transform="translate(116.000000, 117.000000)">
+                <polygon id="rect2999" fill="#2B4896" points="0 0 72 0 72 48 0 48"></polygon>
+                <g id="g4249-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="rect4269"></g>
+                    <g id="g4249" mask="url(#mask-2)">
+                        <g transform="translate(-8.040000, -3.514143)">
+                            <g id="g5755" stroke-width="1" fill="none" transform="translate(37.887832, 0.021314)">
+                                <polygon id="rect3435" fill="#FFFFFF" points="41.96925 0.0951414309 0.0708 28.6677205 7.6083 28.6677205 7.6083 30.2556739 47.313 3.30549085"></polygon>
+                                <polygon id="rect5381" fill="#E32D3C" points="43.8597 0.553577371 3.0345 28.1122463 5.75205 28.0323794 5.75205 28.1197338 45.2739 1.52196339"></polygon>
+                            </g>
+                            <polygon id="path5781" fill="#FFFFFF" points="42.9088 30.6892512 1.01864 1.84284859 8.55104 2.02774043 8.63904 0.440785358 48.42672 27.6122995"></polygon>
+                            <polygon id="path5783" fill="#E32D3C" points="44.49912 30.3494176 3.62552 2.5425624 6.66096 2.6170782 6.66576 2.52978369 46.2904 29.3444526"></polygon>
+                            <g id="g4216" stroke-width="1" fill="none" transform="translate(44.723690, 40.099668) scale(-1, 1) rotate(-3.163173) translate(-44.723690, -40.099668) translate(1.723690, 24.099668)">
+                                <polygon id="path4206" fill="#FFFFFF" transform="translate(61.103854, 15.984760) scale(-1, 1) rotate(177.887441) translate(-61.103854, -15.984760) " points="79.3732856 0.892710525 37.4925051 29.4870426 45.0271422 29.4875044 45.0272398 31.0768094 84.7152032 4.10611992"></polygon>
+                                <polygon id="path4208" fill="#E32D3C" transform="translate(61.519206, 16.835032) scale(-1, 1) rotate(177.887441) translate(-61.519206, -16.835032) " points="81.2163454 3.04138934 40.408345 30.621014 43.1248579 30.5412456 43.1248632 30.6286744 82.6300677 4.01068628"></polygon>
+                                <polygon id="path4210" fill="#FFFFFF" points="43.3104112 0.0312268699 0.0213111941 28.1404599 7.55596541 28.1404599 7.55596541 29.7297613 48.6521437 3.24420167"></polygon>
+                                <polygon id="path4212" fill="#E32D3C" points="44.8801683 0.410117293 2.66406304 27.5045795 5.70041623 27.5045795 5.70041623 27.592008 46.6139635 1.45936"></polygon>
+                            </g>
+                            <polygon id="rect3001" fill="#FFFFFF" points="38.44 3.54305491 49.64 3.54305491 49.64 51.463188 38.44 51.463188"></polygon>
+                            <polygon id="rect3003" fill="#FFFFFF" transform="translate(44.040000, 27.503121) rotate(90.000000) translate(-44.040000, -27.503121) " points="38.8486522 -8.49687854 49.2313478 -8.49687854 49.2313478 63.5031215 38.8486522 63.5031215"></polygon>
+                            <polygon id="rect3005" fill="#E32D3C" points="40.64 3.54305491 47.44 3.54305491 47.44 51.463188 40.64 51.463188"></polygon>
+                            <polygon id="rect3008" fill="#E32D3C" transform="translate(44.040000, 27.503121) rotate(90.000000) translate(-44.040000, -27.503121) " points="40.8453245 -8.49687854 47.2346755 -8.49687854 47.2346755 63.5031215 40.8453245 63.5031215"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

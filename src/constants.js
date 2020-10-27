@@ -1,0 +1,20 @@
+export const LOAD_USER = 'LOAD_USER';
+export const LOAD_AUCTION_INFO = 'LOAD_AUCTION_INFO';
+export const LOAD_AUCTION_LIST = 'LOAD_AUCTION_LIST';
+export const LOAD_SOCET_ID = 'LOAD_SOCET_ID';
+
+export const LOAD_WINNERS = 'LOAD_WINNERS';
+export const LOAD_SETTING = 'LOAD_SETTING';
+export const LOAD_ACTIVITY = 'LOAD_ACTIVITY';
+export const LOAD_BIDPACKS = 'LOAD_BIDPACKS';
+export const LOAD_AUTORIZATION = 'LOAD_AUTORIZATION';
+export const LOAD_REG = 'LOAD_REGISTRATION';
+export const LOAD_LANGUAGE = 'LOAD_LANGUAGE';
+export const LOAD_UPDATEPHOTO = 'LOAD_UPDATE_PHOTO';
+export const LOAD_SETNOTIFICATION = 'LOAD_SET_NOTIFICATION';
+export const LOAD_SET_USER_INFO = 'LOAD_SET_USER_INFO';
+export const BUY_PACKS = 'BUY_PACKS';
+
+export const START = '_START';
+export const SUCCESS = '_SUCCESS';
+export const FAIL = '_FAIL';

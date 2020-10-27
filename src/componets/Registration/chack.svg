@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>check_box - material</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Login-&amp;-register" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Register" transform="translate(-78.000000, -428.000000)" fill="#6048FF">
+            <g id="Check-Box" transform="translate(78.000000, 426.000000)">
+                <path d="M5.488,12.962 L12.238,6.212 L11.176,5.114 L5.488,10.82 L2.824,8.138 L1.762,9.2 L5.488,12.962 Z M12.238,2.45 C12.6580021,2.45 13.0149985,2.5999985 13.309,2.9 C13.6030015,3.2000015 13.75,3.55399796 13.75,3.962 L13.75,14.438 C13.75,14.846002 13.6030015,15.1999985 13.309,15.5 C13.0149985,15.8000015 12.6580021,15.95 12.238,15.95 L1.762,15.95 C1.3419979,15.95 0.98500147,15.8000015 0.691,15.5 C0.39699853,15.1999985 0.25,14.846002 0.25,14.438 L0.25,3.962 C0.25,3.55399796 0.39699853,3.2000015 0.691,2.9 C0.98500147,2.5999985 1.3419979,2.45 1.762,2.45 L12.238,2.45 Z" id="check_box---material"></path>
+            </g>
+        </g>
+    </g>
+</svg>

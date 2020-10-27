@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="63px" viewBox="0 0 68 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>1341393</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Login-&amp;-register" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Successful-signup" transform="translate(-151.000000, -110.000000)" fill="#6048FF">
+            <g id="1341393" transform="translate(151.000000, 110.000000)">
+                <path d="M50.923518,0.660273455 C50.7575484,0.25418502 50.3584445,-0.00791656614 49.9194599,0.000883170001 L34.0967404,0.000883170001 C33.8134764,-0.0107089387 33.5374849,0.0922076358 33.3311065,0.286386267 C33.124728,0.480564899 33.0053726,0.749624798 33,1.03279116 L33,25 L35.1625866,25 L35.1625866,14.6608591 L49.9186876,14.6608591 C50.3668076,14.6431704 50.7614976,14.3610055 50.9228442,13.9429848 C51.0841908,13.5249641 50.9812999,13.0511292 50.6610727,12.7374702 L44.8820233,7.2779409 L50.6610727,1.82304102 C50.9826915,1.52803565 51.0872889,1.06461526 50.923518,0.660273455 Z" id="Path"></path>
+                <polygon id="Path" points="0 63 10.1504756 63 23 40.323609 18.4630158 34"></polygon>
+                <polygon id="Path" points="28.4076964 63 39.5923036 63 55 63 34 27 13 63"></polygon>
+                <polygon id="Path" points="45 40.345062 57.8495244 63 68 63 49.5369842 34"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
